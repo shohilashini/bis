@@ -8,6 +8,7 @@ body,html
 {
 	padding-top:65px;
 	background: url("bgimg.jpg") no-repeat center center fixed;
+
 	background-position: top;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -402,5 +403,3 @@ button:hover, #submitbtn:hover, .btn:hover{
 	border-right: 1px solid white;
 }
 	
-
-
